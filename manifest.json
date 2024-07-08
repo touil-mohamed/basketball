@@ -1,0 +1,28 @@
+{
+    "name": "Basketball",
+    "short_name": "Ideas",
+    "start_url": "./index.html",
+    "display": "minimal-ui",
+    "background_color": "#A97A70",
+    "theme_color": "#302B2A",
+    "orientation": "portrait",
+    "shortcuts": [
+      {
+        "name": "Basketball",
+        "url": "./index.html"
+      }
+    ],
+    "icons": [
+      {
+        "src": "images/basket.png",
+        "type": "image/png",
+        "sizes": "192x192 512x512"
+      },
+      {
+        "src": "images/basket.svg",
+        "type": "image/svg+xml",
+        "purpose": "maskable"
+      }
+    ]
+  }
+  
