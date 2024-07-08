@@ -11,6 +11,12 @@ A brief description of what this project does and who it's for
 
 ## Installation back-end
 
+Install dataBase back 
+
+import le fichier .sql dans PHPMYADMIN
+
+## Installation back-end
+
 Install basketball back end with npm
 
 ```bash
